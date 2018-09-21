@@ -1,0 +1,108 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: black;
+	width: 45%;
+	margin: 0 auto;
+}
+
+a {
+	color: white;
+}
+
+p {
+	font-size: 10px;
+	padding: 20px;
+	line-height: 1.2;
+}
+
+ul {
+	background-color: rgb(112, 112, 112);
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+	margin-bottom: 0;
+}
+
+li {
+	display: inline-block;
+	padding: 15px;
+}
+
+h1 {
+	margin-top: 0;
+	font-family: 'Oswald', sans-serif;
+	background: black;
+	color: rgb(233, 226, 84);
+	text-align: center;
+	padding: 100px;
+	font-size: 60px;
+	font-weight: 600;
+}
+
+li.right {
+	float: right;
+	font-size: 14px;
+
+}
+
+
+.greenBox {
+	background-color: rgb(161, 255, 215);
+	height: 180px;
+	width: 180px;
+	border-radius: 10%;
+	margin: 20px auto;
+	
+}
+
+.orange {
+	background: rgb(255, 196, 101);
+	height: 180px;
+	width: 345px;
+	margin: 20px auto;
+	
+}
+
+#brand {
+	font-size: 1.8em;
+	margin: 0;
+	padding: 5px;
+}
+
+.content {
+	margin: 20px auto;
+}
+
+
+.space {
+	max-width: 85%;
+	margin: 0 auto;
+}
+
+.theBack {
+	background-color: white;
+}
+
+
+
+img {
+	height: 130px;
+	width: 220px;
+	margin-top: 10px;
+	margin-left: 20%;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+footer {
+	height: 100px;
+	max-width: 100%;
+	background: rgb(58, 57, 87);
+}
